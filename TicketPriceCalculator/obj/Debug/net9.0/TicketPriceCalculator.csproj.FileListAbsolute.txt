@@ -1,0 +1,14 @@
+C:\Users\selin\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.exe
+C:\Users\selin\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.deps.json
+C:\Users\selin\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\selin\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.dll
+C:\Users\selin\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.pdb
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.dll
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\refint\TicketPriceCalculator.dll
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.pdb
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\selin\TicketPriceCalculator\obj\Debug\net9.0\ref\TicketPriceCalculator.dll
